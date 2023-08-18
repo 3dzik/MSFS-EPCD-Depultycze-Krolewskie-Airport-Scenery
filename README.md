@@ -17,7 +17,7 @@ Just unzip the scenery from _**3dzik-airport-epcd-pokr-wka-0.1.0.zip**_ and (if 
 - Part of aeronautical map: https://www.ais.pansa.pl/vfr/pliki/EP_AD_4_EPCD_6-0_en.pdf
 
 # VFR points
-In the release zip files you will also find _3dzik-epcd-vfr-points-0.1.0.zip_ - it uses external objects from different scenery https://es.flightsim.to/file/38427/vfr-point-in-poland-fir-airac-2208-chimneys so to youse it you need download also linked scenery.
+In the release zip files you will also find _3dzik-epcd-vfr-points-0.1.0.zip_ - it uses external objects from different scenery https://flightsim.to/file/38427/vfr-point-in-poland-fir-airac-2208-chimneys so to youse it you need download also linked scenery.
 It is represented as "chimneys" with letters according to VFR reporting points published in AD_4_5_0 map.
 
 If you like my work, you can buy me a coffe: <br />
