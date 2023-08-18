@@ -3,6 +3,8 @@
 It's the very first scenery version of EPCD Airport in Depułtycze Krolewskie (Poland) for MSFS.
 EPCD is small academic airport with asphalt and grass runway. GA traffic is allowed but only after authorization from aerodrome personel.
 
+For lates release please see https://github.com/3dzik/MSFS-EPCD-Depultycze-Krolewskie-Airport-Scenery/releases
+
 ![EPCD Tower](resources/depultyczekr.jpg?raw=true "Tower")
 
 ## Some AIP useful links and maps
